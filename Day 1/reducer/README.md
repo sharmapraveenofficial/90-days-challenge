@@ -29,3 +29,28 @@ By the end of Day 1, I have a solid understanding of:
 
 ### References
 - [React Documentation on `useReducer`](https://react.dev/learn/extracting-state-logic-into-a-reducer)
+
+## Day 2: React Performance Optimization
+
+### Overview
+27-07-2024's focus was on optimizing React applications for better performance. We explored techniques to improve load times, reduce unnecessary re-renders, and efficiently manage resources.
+
+### Topics Covered
+1. **Lazy Loading**
+   - Understanding the concept and benefits of lazy loading
+   - Implementing lazy loading using `React.lazy` and `Suspense`
+
+2. **Memoization**
+   - Grasping the concept of memoization for performance optimization
+   - Using `React.memo` for functional components and `useMemo` for values
+
+3. **Code Splitting**
+   - Understanding code splitting to improve load times
+   - Implementing code splitting with dynamic `import()` statements and tools like Webpack
+
+### Summary
+- Lazy Loading: Defer loading of non-essential resources at initial load time
+- Memoization: Optimize performance by caching results of expensive calculations
+- Code Splitting: Split the application into smaller bundles for improved load times and overall performance
+
+These techniques enhance React application efficiency, leading to faster and more responsive user experiences.
