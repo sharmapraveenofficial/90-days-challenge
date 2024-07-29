@@ -97,3 +97,33 @@ By the end of Day 3, I have a comprehensive understanding of various styling met
 - Leveraging CSS frameworks for rapid development
 - Managing styles with React hooks
 - Using CSS Modules for scoped styling
+
+# Day 4: Advanced Forms with Formik and React Hook Form
+
+## Overview
+29-07-2024's learning focused on advanced form management in React using Formik and React Hook Form. This included building complex forms, form validation with Yup, and leveraging React Hook Form for efficient form handling.
+
+## Topics Covered
+
+### 1. Building Complex Forms with Formik
+- **Concept**: Utilizing Formik to handle complex form states and submissions.
+- **Benefits**: Simplifies form management, provides built-in handling for form validation and submission.
+
+### 2. Validating Forms with Yup
+- **Concept**: Integrating Yup for schema-based form validation.
+- **Benefits**: Provides a declarative way to define form validation rules, making form validation straightforward and maintainable.
+
+### 3. Using React Hook Form for Performant Form Management
+- **Concept**: Leveraging React Hook Form to manage form states with minimal re-renders.
+- **Benefits**: Improves form performance, reduces boilerplate code, and offers better control over form handling.
+
+## Conclusion
+By the end of Day 4, I have a solid understanding of:
+- Creating and managing complex forms using Formik.
+- Implementing robust form validation with Yup.
+- Utilizing React Hook Form for efficient and performant form management.
+
+### References
+- [Formik Documentation](https://formik.org/docs/overview)
+- [Yup Documentation](https://github.com/jquense/yup)
+- [React Hook Form Documentation](https://react-hook-form.com/)
