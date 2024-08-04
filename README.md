@@ -127,3 +127,83 @@ By the end of Day 4, I have a solid understanding of:
 - [Formik Documentation](https://formik.org/docs/overview)
 - [Yup Documentation](https://github.com/jquense/yup)
 - [React Hook Form Documentation](https://react-hook-form.com/)
+
+---
+
+## Day 5: Introduction to Angular
+
+### Overview
+02-08-2024's learning journey marked the start of exploring Angular, understanding its purpose, and setting up the initial Angular application. The focus was on getting acquainted with the basics and the core concepts of Angular.
+
+### Topics Covered
+
+#### 1. Why Angular?
+- **Concept**: Angular provides a robust framework for building scalable web applications with a clear structure and rich features out of the box.
+- **Benefits**: Offers a powerful CLI, built-in tools for testing, comprehensive documentation, and strong community support.
+
+#### 2. Setting Up an Angular App
+- **Concept**: Using Angular CLI to create a new Angular project.
+- **Benefits**: Simplifies project setup and provides a well-structured application scaffold.
+
+#### 3. Loading Content in Angular
+- **Concept**: Understanding how Angular bootstraps an application and loads components.
+- **Benefits**: Provides insight into the Angular initialization process and component rendering.
+
+### Conclusion
+By the end of Day 5, I have a foundational understanding of:
+- The benefits of using Angular for web development.
+- Setting up a new Angular application using Angular CLI.
+- The process of how Angular initializes and loads content.
+
+
+---
+
+## Day 6: Angular Components and Selectors
+
+### Overview
+03-08-2024's learning focused on the core building blocks of Angular applications - Components. We explored how to create components, understand selectors, and use them effectively within an Angular application.
+
+### Topics Covered
+
+#### 1. Angular Components
+- **Concept**: Components are the basic building blocks of Angular applications, encapsulating templates, styles, and logic.
+- **Benefits**: Promotes reusability, modularity, and maintainability of the codebase.
+
+#### 2. Selectors
+- **Concept**: Selectors are used to identify components in templates.
+- **Benefits**: Allows the inclusion of components in other templates, enabling a component-based architecture.
+
+#### 3. Creating and Using Components
+- **Concept**: Using Angular CLI to generate new components and include them in templates.
+- **Benefits**: Simplifies component creation and integration, enhancing development efficiency.
+
+### Conclusion
+By the end of Day 6, I have a solid understanding of:
+- The role and structure of Angular components.
+- How to use selectors to include components in templates.
+- Creating and integrating components within an Angular application.
+
+---
+
+## Day 7: Angular Directives and Data Binding
+
+### Overview
+04-08-2024's focus was on understanding Angular Directives and the various types of data binding available in Angular. These concepts are crucial for building dynamic and interactive web applications.
+
+### Topics Covered
+
+#### 1. Angular Directives
+- **Concept**: Directives are special markers in templates that tell Angular to do something to DOM elements.
+- **Types**: Attribute directives, structural directives, and custom directives.
+- **Benefits**: Provides powerful ways to extend HTML and build dynamic applications.
+
+#### 2. Data Binding
+- **Concept**: Binding data between the component and the template.
+- **Types**: Property binding, event binding, and two-way binding.
+- **Benefits**: Synchronizes the model and the view, making the application interactive and responsive.
+
+#### 3. ngModel
+- **Concept**: Facilitates two-way data binding in forms.
+- **Benefits**: Simplifies form handling by keeping the view and the model in sync.
+
+### Conclusion
